@@ -1,0 +1,51 @@
+body {
+	background:#c9fffb;
+}
+
+.tabla{
+	color:black;
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+Header{ 
+	text-shadow:black 3px 3px 10px;
+	text-align: center;
+	color:#0956db;
+	font-size: 20px;
+	font-family: Bernard MT Condensed
+}
+h1 {
+	color:#0B3861;
+	font-size:60px;
+	font-family: broadway;
+	text-transform: uppercase;
+	text-align: center;
+}
+h2 {
+	color:#086A87;
+	font-size: 30px;
+	font-family:broadway;
+	text-transform: Capitalize;
+}
+h3{
+	color:blue;
+	font-size: 20px;
+}
+p{ 
+	color:red;
+	font-size: 15px;
+	text-align:center;
+}
+section{
+	background: #0489B1;
+	border: 5px solid blue;
+	text-align: center;
+	
+}
+footer{
+	background:black;
+	color:yellow;
+	font-size:45px;
+	box-shadow:green 5px 5px 10px;
+}
+	
